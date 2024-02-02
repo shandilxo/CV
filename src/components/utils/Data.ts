@@ -37,7 +37,7 @@ export const projectCard: IProjectSectionCardData[] = [
     id: 1,
     title: 'Cultural Fusion',
     techStack: 'Born in Himachal Pradesh, cultivated in the vibrant milieu of Faridabad, Haryana',
-    imageUrl: 'FBDBLACK.jpg',
+    imageUrl: 'FBD.jpg',
     href: 'https://www.google.com/maps/place/faridabad+haryna/data=!4m2!3m1!1s0x390cdc15f5a424b1:0xe4f50576c850e0f2?sa=X&ved=2ahUKEwib3ouN9oqEAxWIzDgGHSmVA0UQh8EJegQIDhAA',
   },
   {
@@ -59,7 +59,7 @@ export const projectCard: IProjectSectionCardData[] = [
     id: 4,
     title: ' Professional Experience',
     techStack: 'Over 18 months as a Junior Accountant, showcasing adeptness in financial management and final accounts preparation.',
-    imageUrl: 'finance.jpg',
+    imageUrl: 'Finance.jpg',
     href: 'https://www.linkedin.com/in/shandilthakur/',
   },
 ];
