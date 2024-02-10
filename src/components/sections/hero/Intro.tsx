@@ -32,14 +32,8 @@ const Intro: FC<IntroProps> = ({}) => {
                     </div>
                 </div>
                 <div className="text-secondary text-sm mt-2 md:mt-0  max-w-[500px]">
-                    Join me, Neeraj Walia, aka EZ, on an exciting coding
-                    journey! Together, we&apos;ll delve into a world of
-                    knowledge, discover innovative ideas, embrace quick tips,
-                    master clever tricks, conquer coding challenges, implement
-                    best practices, and even tackle interview questions. Hit
-                    that follow button on @ezsnippet if you&apos;ve not already
-                    done so and let&apos;s build something extraordinary, one
-                    line of code at a time!
+                Allow me to introduce Shandil Thakur, a dynamic individual with a diverse background and a passion for excellence. Born on April 8th, 2003, in Himachal Pradesh, Shandil was raised in the vibrant city of Faridabad, Haryana. He completed his Bachelor of Commerce Honors from Delhi University in 2023, following a stellar academic journey that began at Delhi Public School, Ballabgarh, where he completed his 12th-grade studies in commerce in 2020.
+Beyond academia, Shandil is currently pursuing Company Secretaryship (CS), demonstrating his commitment to professional growth and legal expertise. Furthermore, he has a keen interest in graphic effects (GFX) and visual effects (VFX), showcasing his creative flair and technical acumen in multimedia production. Shandil's multifaceted skill set and dedication make him a valuable asset in any endeavor he undertakes.
                 </div>
             </div>
         </div>

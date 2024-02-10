@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { FC } from 'react';
 import Button from '../ui/Button';
-import { Instagram } from 'lucide-react';
+import { Linkedin } from 'lucide-react';
 
 interface ProfileNameProps {}
 
@@ -10,14 +10,14 @@ const ProfileName: FC<ProfileNameProps> = ({}) => {
         <div className="text-3xl flex flex-col font-bold text-highlight">
             SHANDIL THAKUR
             <div className="text-sm font-thin flex justify-between items-center">
-                @shandil.pdf
+                @shandilthakur
                 <Link
                     className="block md:hidden"
-                    href="https://instagram.com/shandil.pdf"
+                    href="https://www.linkedin.com/in/shandilthakur/"
                     target='_blank'
                 >
                     <Button variant="primary" sizes={'iconOnly'}>
-                        <Instagram />
+                        <Linkedin />
                     </Button>
                 </Link>
             </div>
