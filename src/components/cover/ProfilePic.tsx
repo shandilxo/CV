@@ -11,7 +11,6 @@ const ProfilePic: FC<ProfilePicProps> = ({}) => {
                 src="/images/pho.jpg"
                 height={120}
                 width={120}
-                quality={100}
                 className="object-fill border-3 border-slate-800 rounded-full shadow-md"
             />
         </div>
