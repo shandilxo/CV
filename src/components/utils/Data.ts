@@ -74,8 +74,8 @@ export const moreProjects = [
   },
   {
     id: 2,
-    title: 'My Work',
-    techStack: 'GFX,VFX',
+    title: 'Credentials & Achievements',
+    techStack: 'Feel free to peruse the certificates I have uploaded for your reference.',
     icon: 'share',
     href: 'https://drive.google.com/drive/folders/1Nmusl2VfToo5yQlHf389__IsGAolGXzu?usp=sharing',
   },

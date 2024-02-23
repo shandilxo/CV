@@ -24,7 +24,7 @@ const TechStack: FC<TechStackProps> = ({}) => {
         <TechCard
           title="Extra Skills"
           classaName="bg-[#f37c36]"
-          tech={['Introduction to Generative AI', 'ITR' , 'TCS & TDS Return', 'Soft Skills']}
+          tech={['Generative AI', 'ITR' , 'TCS & TDS Return', 'GST', 'BI','DATA ANALYSIS']}
         />
         <TechCard
           title="Programming Language"
