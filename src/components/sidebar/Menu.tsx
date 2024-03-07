@@ -50,7 +50,7 @@ const Menu: FC<MenuProps> = ({}) => {
       <div className="mt-5">Socials</div>
       <List
         target="_blank"
-        link="https://www.instagram.com/shandil.pdf/"
+        link="https://www.instagram.com/shandil.xls/"
         effect="slideUp"
       >
         <Instagram color="#b5179e" /> Instagram
