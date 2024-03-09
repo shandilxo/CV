@@ -1,0 +1,28 @@
+.profilePicContainer {
+    position: relative;
+    width: 120px; /* Width of the image */
+    height: 120px; /* Height of the image */
+}
+
+.animatedBorder {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 3px solid transparent; /* Initial border color */
+    border-radius: 50%; /* Make it circular */
+    animation: borderAnimation 3s infinite; /* Duration and repeat count of the animation */
+}
+
+@keyframes borderAnimation {
+    0% {
+        border-color: rgb(78, 131, 245); /* Start color */
+    }
+    50% {
+        border-color: lightblue; /* Middle color */
+    }
+    100% {
+        border-color: white; /* End color */
+    }
+}
